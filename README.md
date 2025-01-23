@@ -8,7 +8,7 @@ Miside Mobile-это приложение, которое предлагает �
 ![image](https://github.com/user-attachments/assets/8dd374ee-64ad-40b5-8fc1-c3ef364e04fa)
 ![image](https://github.com/user-attachments/assets/00a4e1d5-0149-4ad0-93ee-2184e6926ce0)
 ![image](https://github.com/user-attachments/assets/6a4f90f1-1324-4969-b323-68bf94c2fdff)
-
+[ПРОЕКТ НА 4pda](https://4pda.to/forum/index.php?showtopic=1100730)
 Как скачать Miside Mobile v2.0 📥
 Приложение можно загрузить непосредственно из официального магазина вашего устройства (Google Play Store или Apple App Store). Чтобы установить его:
 
